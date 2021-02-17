@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m6u
 - 👀 I’m interested in WebGIS.
-- 🌱 I’m currently learning Laravel 7/8 and Leaflet and MapServer.
+- 🌱 I’m currently learning Laravel 7/8 and Leaflet and MapServer and PostGIS/PostgreSQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
